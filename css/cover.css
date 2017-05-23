@@ -626,7 +626,7 @@ hr {
     overflow: hidden;
     text-align: center;
     z-index: 99999999;
-    background-color: #777777;
+    background-color: #01579b;
     color: #eeeeee;
     width: 50px;
     height: 48px;
@@ -645,7 +645,7 @@ hr {
     transition: all 0.5s ease-in-out;
 }
 .scroll-top-wrapper:hover {
-    background-color: rgba( 46, 189, 255, 0.8 );
+    background-color: #01579b;
 }
 .scroll-top-wrapper.show {
     visibility:visible;
